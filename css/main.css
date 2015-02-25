@@ -1,0 +1,47 @@
+
+
+header h1{
+	text-align: center;
+}
+
+.loginForm{
+	width: 300px;
+	background: lightgrey;
+	padding: 10px;
+	border-radius: 10px;
+	position: absolute;
+	display: none;
+	z-index: 100;
+}
+
+.formWrap{
+	background: grey;
+	padding: 20px;
+}
+
+.footerNav{
+	background: #222;
+	padding: 20px;
+	margin-top: 50px;
+}
+
+.center {
+  width: 50%;
+  height: 80%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 115px; left: 0; bottom: 0; right: 0;
+}
+
+.updateForm{
+  width: 50%;
+  height: 80%;
+  overflow: auto;
+  margin: auto;
+  top: 115px; left: 0; bottom: 0; right: 0;
+}
+
+#susWrap, #caseWrap{
+	display: none;
+}
